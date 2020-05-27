@@ -1,4 +1,4 @@
-name: terraform-docs
+name: dnx-terraform-docs
 author: Derek Rada
 description: A Github action for generating terraform module documentation using terraform-docs and gomplate.
 inputs:
